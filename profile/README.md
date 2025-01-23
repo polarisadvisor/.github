@@ -29,8 +29,9 @@ Versions of these components were originally developed for our proprietary measu
 
 While Devlake has an awesome infrastructure layer, at this point there is much that can be done to add to the catalog of out-of-the-box dashboards for various use cases, and we hope to help here. 
 
+<!--
 To begin with, we've released dashboards for the flow of work, flow of code etc below.
 
 [Grafana Dashboards](https://github.com/polarisadvisor/polaris-devlake-dashboards)
-
+-->
 
