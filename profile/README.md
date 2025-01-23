@@ -10,7 +10,7 @@ We help you build tailored measurement systems that:
 - Optimize delivery flow to reduce time-to-value.
 - Foster a sustainable, data-informed culture aligned with customer and company goals.
 
-With Polaris,our suite of modeling and measurement  tools built on the open source  Apache DevLake platform, we help you visualize, model, and manage your system — without software subscription fees. 
+Polaris,our suite of modeling and measurement  tools built on the open source  [Apache DevLake](https://devlake.apache.org) platform, helps you visualize, model, and manage your system — without software subscription fees. 
 
 Your business deserves a measurement framework that reflects the unique dynamics of your customers, teams, and purpose.
 
