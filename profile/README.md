@@ -21,7 +21,7 @@ Batteries included.
 
 ## Open source extensions to Apache Devlake
 
-We believe Apache Devlake is a foundational piece of infrastructure for building open and trusted measurement systems that can be easily adopted by engineerings teams interested in reasoning about their work in a data informed manner. 
+We believe Apache Devlake is a foundational piece of infrastructure for building open and trusted measurement systems that can be easily adopted bottom-up by engineering teams interested in reasoning about their work in a data informed manner. 
 
 As such, we are committed to contributing to this ecosystem with components that have been proven in the field for many years. 
 
