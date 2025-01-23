@@ -12,8 +12,6 @@ We help you build a tailored measurement system that:
 
 With Polaris, our suite of modeling and measurement  tools built on the open source  Apache DevLake platform, we help you visualize, model, and manage your system—without software subscription fees. 
 
-Because when you visit a doctor, they don’t ask you to buy an X-ray machine!
-
 Your business deserves a measurement framework that reflects the unique dynamics of your customers, teams, and purpose.
 
 We help you design and manage it—as a service. 
