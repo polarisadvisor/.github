@@ -10,7 +10,7 @@ We help you build tailored measurement systems that:
 - Optimize delivery flow to reduce time-to-value.
 - Foster a sustainable, data-informed culture aligned with customer and company goals.
 
-Polaris,our suite of modeling and measurement  tools built on the open source  [Apache DevLake](https://devlake.apache.org) platform, helps you visualize, model, and manage your system — without software subscription fees. 
+Polaris, our suite of modeling and measurement  tools built on the open source  [Apache DevLake](https://devlake.apache.org) platform, helps you visualize, model, and manage your system — without software subscription fees. 
 
 Your business deserves a measurement framework that reflects the unique dynamics of your customers, teams, and purpose.
 
@@ -27,7 +27,7 @@ As such, we are committed to contributing to this ecosystem with components that
 
 Versions of these components were originally developed for our proprietary measurement platform [Polaris](https://www.exathink.com/take-the-tour), but we've made the decision to port as much of the functionality as we can, to run as open source components on Apache Devlake to make it more widely accessible. 
 
-While Devlake has an awesome infrastructure layer, at this point there is much that can be done to add to the catalog of out-of-the-box dashboards for various use cases. 
+While Devlake has an awesome infrastructure layer, at this point there is much that can be done to add to the catalog of out-of-the-box dashboards for various use cases, and we hope to help here. 
 
 To begin with, we've released dashboards for the flow of work, flow of code etc below.
 
