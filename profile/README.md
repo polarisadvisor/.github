@@ -31,7 +31,7 @@ As such, we are committed to contributing to this ecosystem with components that
 
 While Devlake has an awesome infrastructure layer, at this point there is much that can be done to add to the catalog of out-of-the-box dashboards for various use cases, and we hope to help here. 
 
-We are porting several key components that were originally developed for our proprietary measurement platform [Polaris](https://www.exathink.com/take-the-tour), to run as open source components on Apache Devlake to make it more widely accessible as open source dashboards and plugins on Apache Devlake. 
+As our contribution, we are porting several key components that were originally developed for our proprietary measurement platform [Polaris](https://www.exathink.com/take-the-tour), to run as open source components on Apache Devlake to make it more widely accessible as open source dashboards and plugins on Apache Devlake. 
 
 <!--
 To begin with, we've released dashboards for the flow of work, flow of code etc below.
