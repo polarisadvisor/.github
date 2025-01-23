@@ -21,13 +21,17 @@ Batteries included.
 
 ## Open source extensions to Apache Devlake
 
-We believe Apache Devlake is a foundational piece of infrastructure for building open and trusted measurement systems that can be easily adopted bottom-up by engineering teams interested in reasoning about their work in a data informed manner. 
+We believe Apache Devlake is a foundational piece of infrastructure for building open and trusted measurement systems based on telemetry from standard software development workflow tools.
+
+There are many sophisticated commercial tools in this space, but the key benfit of Apache Devlake is that it combines a very powerful and extensible system instrumentation architecture, with a completely customizable analytics tier. 
+
+In principle, it can be easily adopted bottom-up by engineering teams interested in reasoning about their work in a data informed manner without too much concern about costs and licensing fees etc. As such it is an ideal tool for self-directed teams who are interested in analyzing and inspecting their work to find out ways to improve. 
 
 As such, we are committed to contributing to this ecosystem with components that have been proven in the field for many years. 
 
-Versions of these components were originally developed for our proprietary measurement platform [Polaris](https://www.exathink.com/take-the-tour), but we've made the decision to port as much of the functionality as we can, to run as open source components on Apache Devlake to make it more widely accessible. 
-
 While Devlake has an awesome infrastructure layer, at this point there is much that can be done to add to the catalog of out-of-the-box dashboards for various use cases, and we hope to help here. 
+
+We are porting several key components that were originally developed for our proprietary measurement platform [Polaris](https://www.exathink.com/take-the-tour), to run as open source components on Apache Devlake to make it more widely accessible as open source dashboards and plugins on Apache Devlake. 
 
 <!--
 To begin with, we've released dashboards for the flow of work, flow of code etc below.
