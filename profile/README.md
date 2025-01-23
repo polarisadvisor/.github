@@ -1,4 +1,4 @@
-##The Polaris Advisor Program
+## The Polaris Advisor Program
   
   We help software product companies create bespoke measurement systems to maximize the customer value their teams deliver.
 
