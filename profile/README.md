@@ -1,8 +1,13 @@
 
-<div style="padding: 0 0 1.5rem 0;">
-  <h2 style="margin-bottom: 0.25rem;">
+<div style="
+  font-size: 1.5em;
+  font-weight: 600;
+  margin: 0 0 0.25rem 0;
+">
   <a href="https://polaris-advisor.com">The Polaris Advisor Program</a>
-  </h2>
+</div>
+
+<div style="margin: 0 0 1.75rem 0;">
   <sub><em>
     A consulting service offered under the Presence Calculus family of software products.
   </em></sub>
