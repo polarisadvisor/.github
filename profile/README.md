@@ -1,26 +1,12 @@
 
-<div style="
-  font-size: 3em;
-  font-weight: 600;
-  line-height: 1.2;
-  margin: 0;
-">
-  <a href="https://polaris-advisor.com">The Polaris Advisor Program</a>
-</div>
+# [The Polaris Advisor Program](https://polaris-advisor.com)
 
-<div style="
-  font-size: 0.95em;
-  color: #666;
-  margin-top: 0.4rem;
-  margin-bottom: 2.25rem;
-">
-  <em>
-    A consulting service offered under the Presence Calculus family of software products.
-  </em>
-</div>
+> *A consulting service offered under the Presence Calculus family of software products.*
 
+<br>
 
 We help software product companies create bespoke measurement systems to maximize the customer value their teams deliver.
+
 
 Our research-driven advisory service enables organizations to implement programs that improve collaboration and decision-making across teams, middle management, and executives.
 
