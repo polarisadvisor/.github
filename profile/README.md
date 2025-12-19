@@ -1,10 +1,12 @@
 ## [The Polaris Advisor Program](https://polaris-advisor.com)
 
-----
-
-<sub>
-A consulting service offered under the Presence Calculus family of software products.
-</sub>  
+<div style="margin-top: 0.75rem; margin-bottom: 1.5rem;">
+  <sub>
+    <em>
+      A consulting service offered under the Presence Calculus family of software products.
+    </em>
+  </sub>
+</div>
 
 We help software product companies create bespoke measurement systems to maximize the customer value their teams deliver.
 
