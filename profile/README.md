@@ -1,11 +1,11 @@
-## [The Polaris Advisor Program](https://polaris-advisor.com)
+<h2 style="margin-bottom: 0.25rem;">
+  <a href="https://polaris-advisor.com">The Polaris Advisor Program</a>
+</h2>
 
-<div style="margin-top: 0.75rem; padding-bottom: 1.5rem;">
-  <sub>
-    <em>
-      A consulting service offered under the Presence Calculus family of software products.
-    </em>
-  </sub>
+<div style="margin: 0 0 1.5rem 0;">
+  <sub><em>
+    A consulting service offered under the Presence Calculus family of software products.
+  </em></sub>
 </div>
 
 We help software product companies create bespoke measurement systems to maximize the customer value their teams deliver.
