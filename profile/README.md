@@ -1,6 +1,9 @@
-## [The Polaris Advisor Program](https://polaris-advisor.com)
-  
-  We help software product companies create bespoke measurement systems to maximize the customer value their teams deliver.
+# [The Polaris Advisor Program](https://polaris-advisor.com)
+<sub>
+A consulting service offered under the Presence Calculus family of software products.
+</sub>  
+
+We help software product companies create bespoke measurement systems to maximize the customer value their teams deliver.
 
 Our research-driven advisory service enables organizations to implement programs that improve collaboration and decision-making across teams, middle management, and executives.
 
