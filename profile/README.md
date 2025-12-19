@@ -1,6 +1,6 @@
 ## [The Polaris Advisor Program](https://polaris-advisor.com)
 
-<div style="margin-top: 0.75rem; margin-bottom: 1.5rem;">
+<div style="margin-top: 0.75rem; padding-bottom: 1.5rem;">
   <sub>
     <em>
       A consulting service offered under the Presence Calculus family of software products.
