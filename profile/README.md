@@ -2,6 +2,7 @@
 <sub>
 A consulting service offered under the Presence Calculus family of software products.
 </sub>  
+------
 
 We help software product companies create bespoke measurement systems to maximize the customer value their teams deliver.
 
