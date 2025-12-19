@@ -1,5 +1,5 @@
 
-<div style="margin: 0 0 1.5rem 0;">
+<div style="padding: 0 0 1.5rem 0;">
   <h2 style="margin-bottom: 0.25rem;">
   <a href="https://polaris-advisor.com">The Polaris Advisor Program</a>
   </h2>
